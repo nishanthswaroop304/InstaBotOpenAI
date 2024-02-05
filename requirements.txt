@@ -5,7 +5,7 @@ gunicorn==21.2.0
 markdown2==2.4.12
 numpy
 openai==1.11.0
-pandas @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_82r7p4atwy/croot/pandas_1702318000240/work/dist/pandas-2.1.4-cp310-cp310-macosx_11_0_arm64.whl#sha256=c8b7db467b7e229a08d8c41ceef1d279ae19ed4c6deb6d4dc494a3a64d00cddf
+pandas
 pydantic==2.6.0
 pydantic_core==2.16.1
 python-dotenv==1.0.1
