@@ -1,5 +1,5 @@
 beautifulsoup4==4.12.3
-faiss==1.7.4
+faiss-cpu
 Flask==3.0.2
 gunicorn==21.2.0
 markdown2==2.4.12
